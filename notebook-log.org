@@ -1,0 +1,4 @@
+* HM2 02/18/2022
+ 1755  cd scripts
+ 1758  python fa2faq.py
+ 1773  fastqc ../data/fastq/mind.fastq
