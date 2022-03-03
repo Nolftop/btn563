@@ -2,3 +2,10 @@
  1755  cd scripts
  1758  python fa2faq.py
  1773  fastqc ../data/fastq/mind.fastq
+
+* HM3 03/02/2022 - Alignment
+ 1843  cd ./data/ncbi_query/
+ 1854  sed -n '1,919p' mind.fasta > mind_set.fasta
+ 1857  cd ../..
+ 1858  mkdir results/align
+ 1860  mafft --auto --clustalout --reorder "mind_set.fasta" > "../../results/align/mind_set.fa
