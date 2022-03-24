@@ -9,3 +9,8 @@
  1857  cd ../..
  1858  mkdir results/align
  1860  mafft --auto --clustalout --reorder "mind_set.fasta" > "../../results/align/mind_set.fa
+
+* HM5?
+Wrote R sctips for finding matrix distances from the fasta alignment.
+script - scripts/hm5.R
+results - results/plots/distance_m.png
