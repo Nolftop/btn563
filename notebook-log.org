@@ -14,3 +14,15 @@
 Wrote R sctips for finding matrix distances from the fasta alignment.
 script - scripts/hm5.R
 results - results/plots/distance_m.png
+
+* HM6
+Had problems with nexus format for Mr. Bayes, so I took smaller data set of sng-1 protein and did alignment from scratch.
+
+'
+> ./mb
+> Execute sng.nex # new alignment
+> lset nst=6
+> mcmc ngen=20000 samplefreq=100
+> sump
+> sumt
+'
