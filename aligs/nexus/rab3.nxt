@@ -1,0 +1,206 @@
+#NEXUS
+[Data written by write.nexus.data.R, Mon May  9 00:01:31 2022]
+BEGIN DATA;
+  DIMENSIONS NTAX=17 NCHAR=814;
+  FORMAT DATATYPE=DNA MISSING=? GAP=- INTERLEAVE=YES;
+  MATRIX
+    Human         --------------------------------------------------------------------------------
+    Worm          --------------------------------------------------------------------------------
+    Chimp         --------------------------------------------------------------------------------
+    Macaque       -------------------------------------------atggagctgta--------------------------
+    Mouse         --------------------------------------------------------------------------------
+    Rat           atggtgtgcgtggatcccagttcaagtataagctcacacgcgtgtggagccatgagcgtgtgtgatgtgtcctcaccgat
+    Dog           --------------------------------------------------------------------------------
+    Cat           --------------------------------------------------------------------------------
+    Horse         --------------------------------------------------------------------------------
+    Cow           --------------------------------------------------------------------------------
+    Pig           --------------------------------------------------------------------------------
+    Platypus      --------------------------------------------------------------------------------
+    Chicken       --------------------------------------------------------------------------------
+    Lizard        --------------------------------------------------------------------------------
+    Frog          --------------------------------------------------------------------------------
+    Fish          --------------------------------------------------------------------------------
+    Fly           --------------------------------------------------------------------------------
+
+    Human         -------------------------------------------------------------------atggcatccgcca
+    Worm          -------------------------------------------------------------------atggcggctggcg
+    Chimp         -------------------------------------------------------------------atggcatccgcca
+    Macaque       ------------------------------------------------------------tggaaagatggcctctgccc
+    Mouse         -------------------------------------------------------------------atggcttccgcca
+    Rat           ggccaggtgcaatcgtgcatgggtgcagggagctggactcacacatcgacttgcatacactatacatatggcctcagcca
+    Dog           -------------------------------------------------------------------atggcgtccgcca
+    Cat           -------------------------------------------------------------------atggcgtccgcca
+    Horse         -------------------------------------------------------------------atggcgtctgcca
+    Cow           -------------------------------------------------------------------atggcatctgcca
+    Pig           --------------------------------------------------------------------------------
+    Platypus      -------------------------------------------------------------------atggcttcagcaa
+    Chicken       -------------------------------------------------------------------atggcgtccgcta
+    Lizard        -------------------------------------------------------------------atggcttccgtaa
+    Frog          -------------------------------------------------------------------atggcatctgcta
+    Fish          -------------------------------------------------------------------atggcttcagcta
+    Fly           -------------------------------------------------------------------atggcgagtggcg
+
+    Human         cagactcgcgctatgggcagaaggagtcctcggatcagaacttcgactacatgttcaagattctcatcatcggcaacagc
+    Worm          gacaacctcaaggcgctacaccgggacaacccgatcagaactttgactacatgttcaagctcctgataatcggaaattca
+    Chimp         cagactcgcgctatgggcagaaggagtcctcggatcagaacttcgactacatgttcaagattctcatcatcggcaacagc
+    Macaque       aagatgccaggtatggccagaaagactcctctgatcagaactttgactacatgttcaaattactcatcatcggcaatagc
+    Mouse         cagactctcgctatgggcagaaggagtcctcagaccagaacttcgactatatgttcaagatcctgatcattgggaacagc
+    Rat           cagactctcgatatgggcagaaggagtcctcagaccagaacttcgactatatgttcaagatcctgatcattggtaacagc
+    Dog           cagactcgcgctatgggcagaaggagtcctcggaccagaacttcgactacatgttcaagatcctcatcattggcaacagc
+    Cat           cagactcacgctatgggcagaaggagtcctcggaccagaacttcgactacatgttcaagatcctcatcattggcaacagc
+    Horse         cagactcgcgctatgggcagaaggagtcctcggaccagaacttcgactacatgttcaaaatcctcatcatcggcaacagc
+    Cow           cagacgctcgctatgggcagaaggaatcttcggaccagaacttcgactacatgttcaaaatcctcatcatcggaaacagc
+    Pig           --------------------------------------------------------------------------------
+    Platypus      cagactcccgctatgggcaaaaggaatcctccgaccagaactttgattatatgttcaagatcctgatcatcggcaacagc
+    Chicken       ccgactcccgctatgggcagaaggagtcctcagatcagaacttcgattacatgttcaaaatcctcatcatcggtaacagc
+    Lizard        cagatggcagatatggacacaaggatgcttccgaccagaactttgattacatgttcaaactcctgatcattggcaacagc
+    Frog          cagactcccgttatggccagaaagagtcctcagatcagaactttgattatatgttcaagatcttaattattgggaacagc
+    Fish          cagacaaccgttatggacaaaaggagtcttctgaccagaactttgattacatgttcaaaatcctaatcatcgggaatagc
+    Fly           gagaccccaagt---ggcagaaggatgccgccgaccagaactttgactacatgttcaagctgctcatcattggcaactcc
+
+    Human         agcgtgggcaagacgtccttcctcttccgctatgctgacgactcgttcacgcctgccttcgtcagcaccgtgggcatcga
+    Worm          tcagttggaaaaacatcattcctcttccgttactgtgatgattcattcacttctgccttcgtctctactgtcggaatcga
+    Chimp         agcgtgggcaagacgtccttcctcttccgctatgctgacgactcgttcacgcctgccttcgtcagcaccgtgggcatcga
+    Macaque       agtgtggggaaaacatcttttctattccgttatgcagatgactcctttacatctgcattcgtcagcacagttgggatcga
+    Mouse         agcgtgggcaaaacctcgttcctcttccgctacgcagatgactccttcactccagcctttgtcagcaccgttggcataga
+    Rat           agtgtgggcaaaacctcattccttttccgctacgcagacgactcttttactccagcctttgtcagcactgtgggcataga
+    Dog           agcgtgggcaagacctctttcctattccgctatgcagacgattccttcacgcctgcttttgtcagcactgtgggcatcga
+    Cat           agcgtgggcaagacgtctttcctattccgctatgcagacgattccttcacgcctgcttttgtcagcactgtgggcataga
+    Horse         agcgtgggcaagacgtccttcctcttccgctacgcagacgactccttcacccccgccttcgtcagcactgtgggcatcga
+    Cow           agcgtgggcaagacatctttcctcttccgctatgcagacgactccttcacgcctgcctttgtcagcactgtaggcatcga
+    Pig           --------------------------------------------------------------------------------
+    Platypus      agcgtggggaaaacgtccttcctgttccggtacgcagacgactccttcacgcccgcttttgtcagtaccgttggcatcga
+    Chicken       agcgtagggaagacctcgttcctattccggtacgccgacgactccttcacgcccgccttcgtcagcaccgtcggcatcga
+    Lizard        agtgtgggcaagacatccttcctctttagatatgctgatgacacattcacaccggcctttgtcagtacagtgggaattga
+    Frog          agtgtgggcaaaacctcttttctcttccgatatgcggacgactcatttaccccagcatttgtcagcacggtgggaattga
+    Fish          agcgttgggaagaccagctttctgtttcgttatgcagacgactccttcacgccagcgttcgtaagcacggtcggcatcga
+    Fly           agcgtgggcaagaccagcttcctcttccgctacgccgacgatagcttcacatccgccttcgtctccacggtgggcattga
+
+    Human         cttcaaggtcaagaccatctatcgcaacgacaagaggatcaagctgcagatctgggacacagcagggcaagagcggtacc
+    Worm          tttcaaagtgaaaactgtgttccgtggagacaaacgagtcaaacttcaaatctgggataccgccggacaggagaggtacc
+    Chimp         cttcaaggtcaagaccatctatcgcaacgacaagaggatcaagctgcagatctgggacacagcagggcaagagcggtacc
+    Macaque       tttcaaagtaaaaactgtattcaaaaatgaaaagagaatcaagcttcagatttgggacacagcaggccaggaaagataca
+    Mouse         cttcaaggtcaaaaccatctaccgcaacgacaagaggatcaagctgcagatctgggacacagcagggcaagagcggtacc
+    Rat           cttcaaggtcaaaaccatctaccgcaatgacaagaggatcaagctgcagatctgggacacagcaggacaagagcggtacc
+    Dog           cttcaaggtcaagaccatctaccgcaacgacaagaggatcaagctgcagatctgggacacagcagggcaagagcggtacc
+    Cat           cttcaaggtcaagaccatctaccgcaacgacaagaggatcaagctgcagatctgggacacagcagggcaagagcgatacc
+    Horse         cttcaaggtcaagaccatctaccgcaacgacaagaggatcaagctgcagatctgggacacagcagggcaagagcggtacc
+    Cow           cttcaaggtcaagaccatctaccgaaatgataagaggatcaagctgcagatctgggacacagcgggtcaagagcggtacc
+    Pig           --------------------------------------------------------------------------------
+    Platypus      cttcaaggtgaagaccatctaccgcaacgacaagaggatcaagctgcagatttgggacacagcagggcaggagcggtacc
+    Chicken       cttcaaggtcaaaaccatctaccggaacgacaagcgcatcaagctgcagatctgggacacggccgggcaggagcggtacc
+    Lizard        cttcaaagtgaaaactgtttacaggaatgacaaaagagtaaaactacagatttgggacactgctggacaagaacggtata
+    Frog          cttcaaagtgaaaactatttacaggaatgacaaaagaatcaagctgcagatctgggacacagcaggccaggagaggtaca
+    Fish          cttcaaggtgaagaccatctacaggaacgacaagaggataaagctgcaaatctgggacacagcggggcaggagcgttaca
+    Fly           ctttaaggtgaagaccgtatttcggcacgataagcgcgtgaaactccagatctgggacactgctggacaggagcggtaca
+
+    Human         ggaccatcaccaccgcatactaccggggcgctatgggcttcatcctcatgtatgacatcaccaacgaggaatccttcaat
+    Worm          gtaccatcaccaccgcctactatcgtggagcaatgggattcattctgatgtatgacatcactaatgaagagtcttttaat
+    Chimp         ggaccatcaccaccgcatactaccggggcgctatgggcttcatcctcatgtatgacatcaccaacgaggaatccttcaat
+    Macaque       ggactatcaccacagcttattatcgtggagccatgggctttattttaatgtatgacattacaaatgaagaatccttcaat
+    Mouse         gcaccatcaccacagcctattaccgaggcgccatgggcttcatcctaatgtatgacatcaccaatgaggagtcatttaat
+    Rat           gaaccatcaccacagcctactaccggggcgccatgggcttcattctaatgtatgacatcaccaatgaggagtccttcaat
+    Dog           ggaccatcaccacagcctactaccggggtgccatgggctttatcctcatgtatgacattaccaatgaagaatccttcaat
+    Cat           ggaccatcaccacggcctactaccggggtgccatgggctttatcctcatgtatgacattaccaacgaggagtccttcaac
+    Horse         ggaccatcaccacagcctactaccggggagccatgggcttcatcctcatgtacgacatcaccaacgaggagtcctttaac
+    Cow           ggaccatcacgacagcctactaccgaggcgccatgggcttcatcctcatgtacgacattaccaacgaggagtccttcaat
+    Pig           --------------------------------atgggcttcatcctcatgtatgacatcaccaatgaagagtccttcaat
+    Platypus      gcaccatcaccactgcctactaccggggcgccatgggctttatccttatgtatgacatcaccaatgaggagtcctttaac
+    Chicken       gcaccatcaccaccgcctattaccgcggggccatgggcttcatcctgatgtacgacatcaccaacgaggagtccttcaac
+    Lizard        ggactattactactgcctattatcgaggagcaatgggatttatccttatgtatgatattacttgtgaagagtccttcaat
+    Frog          ggacgataaccacagcttattacagaggtgccatgggattcattctgatgtatgatatcacgaacgaggagtcattcaac
+    Fish          gaaccatcaccaccgcttattaccgtggagccatgggattcatcctcatgtacgacattaccaatgaggagtctttcgct
+    Fly           gaactatcaccacagcctactaccgaggagcgatgggtttcatcctaatgtacgatgtcactaatgaggacagttttaac
+
+    Human         gcagtgcaggactggtccacccagatcaagacctactcatgggacaatgcccaggtgctgctggtaggaaacaagtgtga
+    Worm          agtgttcaggattggtgcactcaaatcaagacatactcatgggaaaatgctcaagttgttttggttggaaataaatgtga
+    Chimp         gcagtgcaggactggtccacccagatcaagacctactcatgggacaatgcccaggtgctgctggtaggaaacaagtgtga
+    Macaque       gcagtacaagattggtcaacccaaatcaaaacatactcttgggataatgcccaggttattctggttgggaacaagtgtga
+    Mouse         gcagtgcaggactggtccactcagatcaaaacttactcgtgggacaatgcccaggtgctgctggtgggaaacaagtgtga
+    Rat           gcagtgcaggactggtccactcagatcaaaacttactcatgggacaatgcccaggtgctgctggtggggaacaagtgcga
+    Dog           gctgtgcaggactggtcaacccagatcaagacctactcatgggacaatgcccaggtgctgctggtgggcaacaagtgtga
+    Cat           gccgtgcaggactggtcgacccagatcaagacctactcatgggacaatgcccaggtgctgctggtggggaacaagtgtga
+    Horse         gccgtgcaggactggtcaacccagatcaagacctactcgtgggacaatgcccaggtgctgctggtggggaacaagtgcga
+    Cow           gctgtgcaggactggtcaacccagatcaagacctactcatgggacaatgcccaggtgctgctggtagggaacaagtgtga
+    Pig           gcagtgcaggactggtcaacccagatcaagacatactcatgggacaatgcccaggtgctgctggtggggaacaagtgtga
+    Platypus      gctgtgcaggactggtcaacccagatcaagacatactcatgggacaatgctcaggtgctgctggtgggcaacaagtgtga
+    Chicken       gccgtgcaggactggtcgacccaaatcaagacgtactcgtgggacaacgcgcaggtgctgctggtggggaacaaatgtga
+    Lizard        gctgtccaggactgggccacgcagatcaagacctactcctgggataatgctcaagtcattctggtggggaacaagtgtga
+    Frog          gctgtgcaggactggtcaactcagatcaagacgtactcctgggacaatgcacaggttttactggttgggaacaaatgtga
+    Fish          gcagtgcaggactggtccacacagattaagacatactcatgggataacgctcaggtgcttctagtaggcaacaagtgtga
+    Fly           tcggttcaggattgggtgacacagatcaaaacgtattcgtgggacaatgcccaggtgatcctggtgggcaacaagtgcga
+
+    Human         catggaggatgagcgggtggtgtcatcagaacgtggccggcagctagctgaccaccttgggttcgagttctttgaggcaa
+    Worm          tatggactctgaaagagttgtatctatggataggggacgccaacttgctgatcaacttggtttggaattcttcgaaacat
+    Chimp         catggaggatgagcgggtggtgtcatcagaacgtggccggcagctagctgaccaccttgggttcgagttctttgaggcaa
+    Macaque       catggaagacgagcgggtcatctcaactgagcgaggtcaacatttaggagaacagcttggttttgagttttttgaaacaa
+    Mouse         catggaagatgagcgagtggtgtcctcagagcgtggccggcagctggctgaccacctgggctttgagttctttgaggcca
+    Rat           catggaggacgagcgagtggtgtcctcagaacgaggccggcagctggccgaccacctgggctttgagttctttgaggcca
+    Dog           catggaggatgaacgggtggtgtcgtcggaacgtggccggcagttggctgaccaccttggctttgagttctttgaggcaa
+    Cat           catggaagatgaacgggtggtgtcgtcggaacgtggccggcagttggctgaccaccttggctttgagttctttgaggcaa
+    Horse         catggaggacgagcgggtggtatcatcagaacgtggccggcagctggctgaccacctggggttcgagttctttgaggcaa
+    Cow           catggaggacgagcgggtggtgtcatcggaacgtggtcgacaactggcagaccacctggggttcgagttctttgaggcaa
+    Pig           catggaggatgagcgggtggtgtcatcagaacgtggccggcagctggctgaccacctggggttcgagttctttgaggcaa
+    Platypus      catggaggacgagcgagtggtctcctcagaacggggccggcagctggctgagcaccttggctttgagtttttcgaggcca
+    Chicken       catggaggacgagcgcgtggtgtcggctgagaagggccggcagctcgccgagcacctgggcttcgagttcttcgaggcca
+    Lizard        catggaggatgagagaataattcctattgaaaaaggaaagcatctggctgatcagttgggatttgattattttgaagcca
+    Frog          catggaagatgaaagagttgtgtcatctgaaagaggaaggcaattggcagagcatctaggttttgaattctttgaagcta
+    Fish          catggaggatgagagggtcgtggcttctgaaaggggcagacagctctctgagcatcttggttttgaatatttcgaagcca
+    Fly           catggaggaccagcgggtaatcagcttcgaacgtggtcgccagttggccgatcaattgggtgttgagttcttcgagacct
+
+    Human         gcgccaaggacaacattaacgtcaagcagacctttgagcgcctggtggatgtcatctgcgagaagatgtccgagtcgttg
+    Worm          cagccaaggagaacattaatgtaaaggcagtttttgagaagttggtggagattatttgtgataagatggcagagagtttg
+    Chimp         gcgccaaggacaacattaacgtcaagcagacctttgagcgcctggtggatgtcatctgcgagaagatgtccgagtcgttg
+    Macaque       gtgccaaggataacattaatgtcaagcagacatttgagcgccttgtggatatcatctgcgacaaaatgtcagagagtttg
+    Mouse         gcgccaaggacaacattaatgtcaagcagacgtttgaacgtctggtggacgtgatctgtgagaagatgtcagagtccctg
+    Rat           gcgccaaggacaacattaatgtcaagcagacctttgaacgtctggtggacgtgatctgtgagaagatgtcggagtcccta
+    Dog           gcgccaaggacaacattaatgtcaagcagacctttgagcgcctggtggatgtcatctgtgagaagatgtccgagtcattg
+    Cat           gcgccaaggacaacattaatgtcaagcagacctttgagcgcctggtggacgtcatctgtgagaagatgtccgagtcattg
+    Horse         gtgctaaggacaacattaatgtcaagcagacctttgagcgcctggtggacgtcatctgtgagaagatgtccgagtcgttg
+    Cow           gcgccaaggacaacattaatgtcaagcagacctttgagcgccttgtggatgtcatctgcgagaagatgtctgagtcattg
+    Pig           gcgccaaggacaacattaacgtcaagcagacctttgagcgcctggtggatgtcatctgcgagaagatgtcggagtcactg
+    Platypus      gcgccaaggataacatcaacgtgaagcagacctttgagcggctcgtggacatcatctgtgagaagatgtcagagtccctg
+    Chicken       gcgccaaggacaacatcaacgtcaagcagaccttcgagcggttggtggacatcatctgtgagaagatgtcggagtctctg
+    Lizard        gtgccaaggagaacatcaatgtgagacaggtcttcgaacgcctcgtggacatcatctgtgagaagatgtcggagggcatg
+    Frog          gcgccaaagacaacatcaatgtgaagcagacatttgaacgtttggtggatatcatctgtgaaaagatgtcagagagcttg
+    Fish          gtgccaaggacaacattaatgttaaacaaaccttcgagcggttggtggacataatctgcgagaagatgtcagagagcctg
+    Fly           ctgccaaggagaacgtcaacgtcaaggctgttttcgagcgtttggtggacatcatctgcgataagatgtccgagagcctg
+
+    Human         gacacggcggaccctgcggtcacaggcgccaag-cagggcccacagctcagtgacca---gcaggtgccaccgcaccagg
+    Worm          gataagga----cccacagcaacagccaaaaggacagaagctcgaagcgaatccgac---ccaaaagcctgctcaacagc
+    Chimp         gacacggcggaccctgcggtcacaggcgccaag-cagggcccacagctcagtgacca---gcaggtgccaccgcaccagg
+    Macaque       ga---gactgatcctgccatcactgctgcaaag-cagaacacaagactcaaggaaac---ccctcctccaccgcagccca
+    Mouse         gatactgcagaccctgcggtcaccggtgccaag-cagggcccgcagctcaccgacca---gcaggcgccacctcatcagg
+    Rat           gatactgcagaccctgcagtcacgggtgccaag-cagggcccacagctcaccgacca---gcaggcaccacctcatcagg
+    Dog           gacacggctgaccctgcagtcacgggtgccaag-cagggcccacagctcacggacca---gcaggcgcctccacaccagg
+    Cat           gacacggccgaccctgcagtcacgggtgccaag-cagggcccacagctcacggacca---gcaggcgcctccgcaccagg
+    Horse         gacacggctgaccccgcagtcacgggcgccaag-cagggcccccagctcacggacca---gcaggcgcccccgcaccagg
+    Cow           gacacggccgatcccgcagtcacgggcgccaag-cagggcccacagctcacggacca---gcaggcgcctccgcatcagg
+    Pig           gacacggccgaccccgcagtcacgggcgccaag-cagggcccacagctcacggacca---gcaggcacccccgcaccagg
+    Platypus      gacacggccgacccggcagtgactggagccaag-caggggccacagctcacggatca---gcaggcccccccgcaccagg
+    Chicken       gacgcagccgaccccgccgtcaccggcgccaag-cagggcccgcagctgtcggacca---gcaggcccccccccaccagg
+    Lizard        gattca---gaagctgcaaagacggctgccggg-aagaatgtgcatctcacctataa---tcgacctccgcttcagcaga
+    Frog          gatacagctgatccagctgtcaccggagccaaa-caaggaccccagctcactgacca---gcaggcacccccacaccaag
+    Fish          gatgctgccgatcctgcagtgacgggagccaaa-caagggccgcagctcacagagca---gcccgccgccccgcaccagg
+    Fly           gacgcggatccgacgttagtaggcggtggccag-aagggccagaggttgacggatcagccgcagggcacgcctaatgcca
+
+    Human         actgcgcctgctga
+    Worm          aatgcaattgctaa
+    Chimp         actgcgcctgctga
+    Macaque       actgtgcctgctag
+    Mouse         attgtgcctgctga
+    Rat           attgcgcctgctga
+    Dog           actgcgcctgctga
+    Cat           actgcgcctgctga
+    Horse         actgcgcctgctga
+    Cow           actgcgcctgctga
+    Pig           actgcgcctgctga
+    Platypus      actgtgcttgctaa
+    Chicken       actgcgcctgctag
+    Lizard        agtgctcttgttaa
+    Frog          actgcgcctgctaa
+    Fish          actgcgcctgctga
+    Fly           actgcaattgttag
+  ;
+END;
+

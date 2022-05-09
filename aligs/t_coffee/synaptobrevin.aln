@@ -1,0 +1,403 @@
+CLUSTAL FORMAT for T-COFFEE Version_12.00.7fb08c2 [http://www.tcoffee.org] [MODE:  ], CPU=0.00 sec, SCORE=905, Nseq=17, Len=1019 
+
+Human           ATGTCT-----------------G------------C-------------
+Worm            ATGGAC--------------------------------------------
+Chimp           ATGTCT-----------------G------------C-------------
+Macaque         ATGTCT-----------------G------------C-------------
+Mouse           ATGTCT-----------------------------GC-------------
+Rat             ATGTCT-----------------------------GC-------------
+Dog             ATGTCT-----------------G----------C---------------
+Cat             ATGTCT-----------------G----------C---------------
+Horse           ATGTCT-----------------G----------C---------------
+Cow             ATGTCT-----------------------------GC-------------
+Pig             ATGAAATCTCTTGATGTCAGCCTGGATGTCCCTGAGCCCCATCAAATTGT
+Platypus        ATGTCT----------------------------G-C-------------
+Chicken         ATGTCT----------------------------G-A-------------
+Lizard          TC---T----------------------------G-A-------------
+Frog            ATGTGG--------------------------------------------
+Fish            ATGTCT-----------------------------GC-------------
+Fly             ATGGAG--------------------------------------------
+                                                                  
+
+Human           --------------------------------------------------
+Worm            --------------------------------------------------
+Chimp           --------------------------------------------------
+Macaque         --------------------------------------------------
+Mouse           --------------------------------------------------
+Rat             --------------------------------------------------
+Dog             --------------------------------------------------
+Cat             --------------------------------------------------
+Horse           --------------------------------------------------
+Cow             --------------------------------------------------
+Pig             TACAGCATCTTTCATCTTTTACTTCTGGCCTCTCTGCTGCATCCCCCTCC
+Platypus        --------------------------------------------------
+Chicken         --------------------------------------------------
+Lizard          --------------------------------------------------
+Frog            --------------------------------------------------
+Fish            --------------------------------------------------
+Fly             --------------------------------------------------
+                                                                  
+
+Human           --------------------------------------------------
+Worm            --------------------------------------------------
+Chimp           --------------------------------------------------
+Macaque         --------------------------------------------------
+Mouse           --------------------------------------------------
+Rat             --------------------------------------------------
+Dog             --------------------------------------------------
+Cat             --------------------------------------------------
+Horse           --------------------------------------------------
+Cow             --------------------------------------------------
+Pig             TGGGTATTGCCAAGGAGCTGGAATCCCTTCGGACTGCGTACAACGTTGTC
+Platypus        --------------------------------------------------
+Chicken         --------------------------------------------------
+Lizard          --------------------------------------------------
+Frog            --------------------------------------------------
+Fish            --------------------------------------------------
+Fly             --------------------------------------------------
+                                                                  
+
+Human           --------------------------------------------------
+Worm            --------------------------------------------------
+Chimp           --------------------------------------------------
+Macaque         --------------------------------------------------
+Mouse           --------------------------------------------------
+Rat             --------------------------------------------------
+Dog             --------------------------------------------------
+Cat             --------------------------------------------------
+Horse           --------------------------------------------------
+Cow             --------------------------------------------------
+Pig             ACCACTGCTTTGCTGGCATGGGGTGAGAATGCACATGATTCTTTTCTTGT
+Platypus        --------------------------------------------------
+Chicken         --------------------------------------------------
+Lizard          --------------------------------------------------
+Frog            --------------------------------------------------
+Fish            --------------------------------------------------
+Fly             --------------------------------------------------
+                                                                  
+
+Human           ------------------------------------TCCAGCT-CAGCCA
+Worm            ----------------------------------------GCT-CAAGGA
+Chimp           ------------------------------------TCCAGCT-CAGCCA
+Macaque         ------------------------------------TCCAGCT-CAGCCA
+Mouse           ------------------------------------TCCAGCT-CAACCG
+Rat             ------------------------------------TCCAGCT-CAGCCA
+Dog             ------------------------------------CCCAGCT-CAGCCA
+Cat             ------------------------------------TCCGGCT-CAGCCG
+Horse           ------------------------------------TCCGGCT-CAGCCA
+Cow             ------------------------------------TCCAGCT-CAGCCA
+Pig             TTTGGTCACTTTGTGCACTTCTCTCCACAGGTCTGCTCCAGCT-CAGCCA
+Platypus        ------------------------------------TCCCGCC-CAGCCA
+Chicken         ------------------------------------ACCAGCT-CAGCAG
+Lizard          ------------------------------------TCCAGCA-CAGCCA
+Frog            ------------------------------------AGAGGAT-CA----
+Fish            ------------------------------------CCCAGATGCTGCCG
+Fly             ------------------------------------AACAACG-AAGCCC
+                                                                  
+
+Human           CCTGC---TGAAGGG---ACAGAAGGGACTGCCCCAG-GTGGG-GGTCCC
+Worm            GATG---CCGGC---GC-ACAGGGAGG--AAG-TCAGG-----G------
+Chimp           CCTGC---TGAAGGG---ACAGAAGGGACTGCCCCAG-GTGGG-GGTCCC
+Macaque         CCTGC---TGAAGGG---ACAGAAGGGACTGCCCCAG-GTGGG-GGTCCC
+Mouse           CCTGC---TGAAGGG---ACAGAAGGAGCTGCCCCTG-GTGGG-GGTCCT
+Rat             CCTGC---TGAAGGG---ACAGAAGGGGCTGCCCCAG-GTGGG-GGTCCT
+Dog             CCCAC---TGAAGGG---GCAGAAGGGACTGCCCCTG-GAGGT-GGTCCC
+Cat             CCCAC---TGAAGGG---GCAGAAGGGGCTGCCCCAG-GTGGG-GGCCCC
+Horse           CCCAC---CGAGGGG---GCAGAGGAGACTGCCCCAG-GTGGG-GGTCCC
+Cow             CCCAC---TGAAGGG---GCAGAAGGGGCTGCCCCAG-GTGGG-GGTCCC
+Pig             CCCAC---CGAAGGG---GCAGAAGGGGCTGCCCCAG-GTGGG-GGTCCC
+Platypus        CCCAC---CCCTGGGGGTCCAGAAGGGGCTGCCCCCG-GCGGG-GGGCCC
+Chicken         CCTGC---TCCTGGGGCCCCGGAAGGGGGAGCCCCTG-CCGGG-GGCCCC
+Lizard          GCTGC---CCCAGGG---GCAGAAGGAGAAAA---TG-CTGGG-GGAGCC
+Frog            ---------GAGGGA---CCAACA----CCAA-CCAT-GTCAG-GATCA-
+Fish            CAAGC-CCTGGAGCC---CCAGGAGCCCCAGAGGGTG-AGGGA-GGCGCG
+Fly             CCTCCCCCTCGGGATCCAACAACAACGATTTTCCCATACTTCCGCCACCG
+                                   *                              
+
+Human           CC---------TG-----------------GCCCTCCTCCTAAC-ATGAC
+Worm            -CG---------GAC--C----------AC---GACCAT----------C
+Chimp           CC---------TG-----------------GCCCTCCTCCTAAC-ATGAC
+Macaque         CC---------TG-----------------GCCCTCCTCCTAAC-CTGAC
+Mouse           CC---------TG-----------------GTCCTCCTCCCAAC-ATGAC
+Rat             CC---------TG-----------------GTCCTCCTCCCAAT-ACGAC
+Dog             CC---------TG-----------------GCCCTCCTCCTAAT-ACAAC
+Cat             CC---------TG-----------------GCCCTCCTCCTAAT-ACGAC
+Horse           CC---------TG-----------------GCCCTCCTCCTAAT-GTGAC
+Cow             CC---------TG-----------------GCCCTCCTCCTAAT-ATGAC
+Pig             CC---------TG-----------------GCCCTCCTCCTAAC-ACGAC
+Platypus        CC---------TG-----------------GCCCACCCCCCAAC-ACGAC
+Chicken         CC---------GG-----------------GGCCACCCCCCAAT-CTGAG
+Lizard          CC---------TG-----------------GACAACCTCCAAAT-TTGAC
+Frog            GG---------GG-----------------GACCTCCCG-------CAAG
+Fish            CC---------AG-----------------CCCAACCTCCAAAC-CTCAC
+Fly             CCGAACGCGAATGACAACTACAATCAATTCGGTGACCATCAAATCAGGAA
+                            *                      **             
+
+Human           CAGTAA-------CAGACG--ACTACAGCAAACCCAGGCACAAGTGGAGG
+Worm            CAACA----------AACG--TCTCCAGCAGACACAAGCTCAGGTTGATG
+Chimp           CAGTAA-------CAGACG--ACTACAGCAAACCCAGGCACAAGTGGAGG
+Macaque         CAGTAA-------CAGACG--ACTACAGCAAACCCAGGCACAAGTGGAGG
+Mouse           CAGTAA-------CAGGCG--GTTACAGCAGACCCAGGCACAAGTGGAGG
+Rat             CAGTAA-------CAGACG--ATTACAGCAAACCCAGGCACAAGTGGAGG
+Dog             CAGTAA-------CAGACG--ACTACAGCAAACCCAGGCACAAGTGGAGG
+Cat             CAGTAA-------CAGACG--ACTACAGCAAACCCAGGCACAAGTGGAGG
+Horse           CAGTAA-------CAGACG--ACTACAGCAAACCCAGGCACAAGTGGAAG
+Cow             CAGTAA-------CAGACG--ACTACAGCAGACCCAGGCACAAGTGGAGG
+Pig             CAGTAA-------CAGACG--CCTACAGCAGACCCAGGCACAAGTGGAGG
+Platypus        CAGTAA-------CCGGAG--GCTGCAGCAAACACAGGCCCAGGTGGAGG
+Chicken         CAGTAA-------CCGTCG--GCTGCAGCAGACGCAGGCCCAGGTGGAGG
+Lizard          CAGTAA-------TCGTCG--CCTGCAGCAAACTCAAGCACAGGTGGAAG
+Frog            TAGTAA-------CCGTAG--GCTTCTACAAACCCAAGCACAAGTAAATG
+Fish            TAGCAA-------CCGCCG--TCTCCAGCAGACACAGGCCCAAGTGGATG
+Fly             CAACAATGCAGCCCAGAAGAAGCTGCAGCAGACCCAAGCCAAGGTGGACG
+                 *  *             *    * *  ** ** ** **  * **  * *
+
+Human           AGGTGGTGGACATCATACGTGTGAACGTGGACAAGGTCCTGGAGAGGGAC
+Worm            AAGTCGTCGGAATCATGAAGGTGAACGTGGAAAAAGTTTTGGAGCGTGAT
+Chimp           AGGTGGTGGACATCATACGTGTGAACGTGGACAAGGTCCTGGAGAGGGAC
+Macaque         AGGTGGTTGACATCATACGTGTGAATGTGGACAAGGTCCTGGAGAGGGAC
+Mouse           AGGTGGTGGACATCATGCGTGTGAATGTGGACAAGGTCTTGGAGAGGGAC
+Rat             AGGTGGTGGACATCATGCGCGTGAATGTGGACAAGGTCTTGGAGAGGGAC
+Dog             AAGTGGTGGACATCATGCGTGTCAATGTGGACAAGGTCCTGAAGAGGGAT
+Cat             AAGTGGTGGACATCATGCGTGTGAATGTGGACAAGGTCCTGAAGAGGGAT
+Horse           AGGTGGTAGACATCATGCGTGTGAATGTGGACAAAGTCCTGAAGAGGGAC
+Cow             AGGTGGTGGACATCATGCGTGTAAACGTGGACAAGGTCCTGGAGAGGGAC
+Pig             AGGTGGTGGACATCATTCGTGTGAATGTGGATAAGGTCCTAGAGAGGGAC
+Platypus        AGGTGGTGGACATTATGCGTGTGAATGTGGACAAAGTCCTGGAGCGAGAC
+Chicken         AGGTGGTTGATATAATGCGTGTAAATGTCGACAAGGTACTGGAACGAGAC
+Lizard          AAGTGGTGGATATTATGCGTGTGAATGTGGACAAAGTCTTGGAGAGAGAT
+Frog            AGGTAGTGGATATCATGCGGGTAAATGTGGACAAGGTCCTGGATCGAGAT
+Fish            AGGTGGTTGACATCATGCGTGTGAATGTGGACAAGGTTCTGGAAAGAGAT
+Fly             AGGTGGTCGGGATTATGCGTGTGAACGTGGAGAAGGTCCTGGAGCGGGAC
+                * ** ** *  ** **    ** ** ** ** ** **  *  *  * ** 
+
+Human           CAGAAGCTGTCAGAGCTGGATGACCGAGCTGATGCCTTGCAGGCAGGAGC
+Worm            CAGAAGTTGTCTCAACTGGACGACCGAGCTGACGCTCTCCAGGAAGGTGC
+Chimp           CAGAAGCTGTCAGAGCTGGATGACCGAGCTGATGCCTTGCAGGCAGGAGC
+Macaque         CAGAAGCTGTCAGAGTTGGATGACCGAGCTGATGCCTTGCAGGCAGGAGC
+Mouse           CAGAAGTTGTCAGAGCTGGATGACCGGGCTGACGCCTTGCAGGCCGGAGC
+Rat             CAGAAGTTGTCAGAGTTGGATGACCGAGCTGACGCCTTGCAGGCAGGAGC
+Dog             GAGATACTGTCACAGCTAGATGACCGAGCGGATGCCTTGCAGGTGGGAGC
+Cat             GAGATACTGTCACAGCTGGATGACCGAGCTGACGCCTTGCAGGTGGGAGC
+Horse           GAGATACTGTCAGAGCTGGATGACCGAGCTGATGCCTTGCAGGTGGGAGC
+Cow             CAGAAGCTGTCAGAGCTGGATGACCGAGCCGACGCTCTGCAGGCGGGTGC
+Pig             CAGAAGCTGTCAGAGCTGGATGACCGAGCCGACGCTTTGCAGGCAGGAGC
+Platypus        CAGAAGCTGTCGGAGCTGGACGACCGGGCGGACGCGCTGCAGGCTGGGGC
+Chicken         CAGAAACTGTCAGAGCTTGATGACCGGGCAGATGCACTTCAGGCTGGTGC
+Lizard          CAGAAGCTGTCAGAACTAGATGAACGAGCAGATGCCCTCCAAGCCGGTGC
+Frog            CAGAAGCTGGCAGAGTTGGATGACCGAGCAGATGCTCTCCAAGCTGGAGC
+Fish            CAGAAGCTGTCAGAATTGGACGACCGGGCAGACGCACTGCAGGCCGGAGC
+Fly             CAGAAGCTATCGGAACTGGGCGAGCGTGCGGATCAGCTGGAGCAGGGAGC
+                 ***   *  *  *  * *  ** ** ** **     *  *    ** **
+
+Human           ATCACAATTTGAG-AGCAGTGCTGCCAAGCTAAAGAGGAAGTATTGGTGG
+Worm            TTCACAATTTGAG-AAATCTGCGGCCACCCTGAAGCGCAAGTATTGGTGG
+Chimp           ATCACAATTTGAG-AGCAGTGCTGCAAAGCTAAAGAGGAAGTATTGGTGG
+Macaque         ATCACAATTTGAG-AGCAGTGCTGCAAAGCTAAAGAGGAAGTATTGGTGG
+Mouse           ATCACAATTTGAG-AGCAGTGCTGCCAAGCTAAAAAGGAAGTACTGGTGG
+Rat             GTCAGTGTTTGAG-AGCAGTGCTGCCAAGCTAAAAAGGAAGTATTGGTGG
+Dog             ATCACAATTTGAG-AGTAGTGCTGCCAAGCTAAAGAGGAAGTATTGGTGG
+Cat             ATCACAATTTGAG-AGTAGTGCTGCCAAGCTAAAGAGGAAGTATTGGTGG
+Horse           GTCGCAATTTGAG-AGCAGCGCTGCCAAGCTAAAGAGGAAGTATTGGTGG
+Cow             ATCACAATTTGAG-AGCAGCGCTGCCAAGCTAAAGAGGAAGTACTGGTGG
+Pig             ATCGCAATTTGAG-AGCAGCGCTGCCAAGCTAAAGAGGAAGTATTGGTGG
+Platypus        CTCACAGTTCGAG-AGCAGCGCCGCGAAGCTCAAGAGAAAGTACTGGTGG
+Chicken         CTCAGTATTTGAA-AGTAGTGCAGCAAAACTCAAAAGGAAGTACTGGTGG
+Lizard          CCAAGTATTTGAA-AGCAGTGCAGCAGCACTCAAGAGGAAGTATTGGTGG
+Frog            TTCCCAGTTTGAA-ACCAGTGCAGCCAAACTGAAGAGAAAGTACTGGTGG
+Fish            ATCACAGTTTGAG-AGCAGCGCTGCCAAGCTAAAAAACAAGTACTGGTGG
+Fly             ATCCCAGTTCGAGCAGCAG-GCCGGCAAGCTGAAGCGCAAGCAATGGTGG
+                       ** **  *     ** *     ** **    *** * ******
+
+Human           AAAAACTGCAAGATGATGATCATGCTGGGAGCCATC-----TGTGC----
+Worm            AAGAACATCAAAATGATGATCATCATGTGCGCTATC-----GTCGT----
+Chimp           AAAAACTGCAAGATGATGATCATGCTGGGAGCCATC-----TGTGC----
+Macaque         AAAAACTGCAAGATGATGATCATGCTGGGAGCCATC-----TGTGC----
+Mouse           AAAAACTGCAAGATGATGATCATGCTGGGAGCTATC-----TGTGC----
+Rat             AAAAACTGCAAGATGATGATCATGCTGGGAGCTATC-----TGTGC----
+Dog             AAAAACTGCAAGATGATGATCATGCTGGGAGCTATC-----TGTGC----
+Cat             AAAAACTGCAAGATGATGATCATGCTGGGAGCTATC-----TGTGC----
+Horse           AAAAACTGCAAGATGATGATCATGCTGGGAGCTATC-----TGTGC----
+Cow             AAAAACTGCAAGATGATGATCATGCTGGGAGCCATC-----TGCGC----
+Pig             AAAAACTGCAAGATGATGATCATGCTGGGAGCCATC-----TGTGC----
+Platypus        AAAAACTGCAAGATGATGATCATGCTGGGAGCCATC-----TGTGC----
+Chicken         AAGAACTGTAAGATGATGATCATGATGGGAGTGATT-----TGTGC----
+Lizard          AAGAACTGCAAGATGATGATCATGCTGGGAGTGATC-----TGTGC----
+Frog            AGAAACTGCAAGATGATGATCATCATGGGAGTATTG-----TGCGC----
+Fish            AAGAACATGAAGATGATGATAATAATGGGAATAATG-----GGGAT----
+Fly             GCCAACATGAAGATGATGATCATTCTGGGCGTGATAGCCGTTGTGCTGCT
+                   ***   ** ******** **  ** *     *               
+
+Human           CATCATCGTGGTAGTT----------------ATTGT-------------
+Worm            CATTCTTATTATCATC----------------ATCGT-------------
+Chimp           CATCATCGTGGTAGTT----------------ATTGT-------------
+Macaque         CATCATCGTGGTAGTT----------------ATTGT-------------
+Mouse           CATCATCGTGGTAGTG----------------ATTGT-------------
+Rat             CATCATCGTGGTAGTA----------------ATTGT-------------
+Dog             CATCATCGTGGTAGTC----------------ATTGT-------------
+Cat             CATCATCGTGGTAGTT----------------ATTGT-------------
+Horse           CATCGTCGTGGTAGTT----------------ATTGT-------------
+Cow             CATCATCGTGGTAGTT----------------ATTGT-------------
+Pig             CATCATCGTGGTAGTT----------------ATTGT-------------
+Platypus        CATCATCGTGGTCATT----------------ATTGT-------------
+Chicken         CATTGTGGTGGTGGTG----------------ATTGT-------------
+Lizard          CATTGTGGTGATTGCA----------------ATTGC-------------
+Frog            AATAATGTTCATCATT----------------CTCAT-------------
+Fish            CATCTTGTTGGGTATT----------------GCTTT-------------
+Fly             CATCATCGTTCTGGTGTCCGTTTGGCCGTCTAGTAGTGACAGCGGCAGTG
+                 **  *  *                                         
+
+Human           -------AAG----------------------------------------
+Worm            -------TTT----------------------------------------
+Chimp           -------AAT----------------------------------------
+Macaque         -------AAT----------------------------------------
+Mouse           -------AAT----------------------------------------
+Rat             -------AAT----------------------------------------
+Dog             -------AAG----------------------------------------
+Cat             -------AAG----------------------------------------
+Horse           -------AAG----------------------------------------
+Cow             -------AACCCCAGGAACAGCAAGGTCAGGACGAAGAGGATGCTGGCCA
+Pig             -------AAG----------------------------------------
+Platypus        -------AAT----------------------------------------
+Chicken         -------AAT----------------------------------------
+Lizard          -------CCT----------------------------------------
+Frog            -------CAT----------------------------------------
+Fish            -------CAT----------------------------------------
+Fly             GTGGAGGAAA----------------------------------------
+                                                                  
+
+Human           --------------------------------------------------
+Worm            --------------------------------------------------
+Chimp           --------------------------------------------------
+Macaque         --------------------------------------------------
+Mouse           --------------------------------------------------
+Rat             --------------------------------------------------
+Dog             --------------------------------------------------
+Cat             --------------------------------------------------
+Horse           --------------------------------------------------
+Cow             GAAGGACTCCCAGGGCTGACTTCTGCTCTGCAACTGACAGAGGCGTGGAG
+Pig             --------------------------------------------------
+Platypus        --------------------------------------------------
+Chicken         --------------------------------------------------
+Lizard          --------------------------------------------------
+Frog            --------------------------------------------------
+Fish            --------------------------------------------------
+Fly             --------------------------------------------------
+                                                                  
+
+Human           --------------------------------------------------
+Worm            --------------------------------------------------
+Chimp           --------------------------------------------------
+Macaque         --------------------------------------------------
+Mouse           --------------------------------------------------
+Rat             --------------------------------------------------
+Dog             --------------------------------------------------
+Cat             --------------------------------------------------
+Horse           --------------------------------------------------
+Cow             GGAAATCAGTGGCAAGAATCCTCCTGAACCCTCGCCCACAGCGTGTGCAC
+Pig             --------------------------------------------------
+Platypus        --------------------------------------------------
+Chicken         --------------------------------------------------
+Lizard          --------------------------------------------------
+Frog            --------------------------------------------------
+Fish            --------------------------------------------------
+Fly             --------------------------------------------------
+                                                                  
+
+Human           --------------------------------------------------
+Worm            --------------------------------------------------
+Chimp           --------------------------------------------------
+Macaque         --------------------------------------------------
+Mouse           --------------------------------------------------
+Rat             --------------------------------------------------
+Dog             --------------------------------------------------
+Cat             --------------------------------------------------
+Horse           --------------------------------------------------
+Cow             GCAGGAAGGAGAGTGCGCTCTGTGTGTGTGTATGTGCCTGGCTGAGGAGC
+Pig             --------------------------------------------------
+Platypus        --------------------------------------------------
+Chicken         --------------------------------------------------
+Lizard          --------------------------------------------------
+Frog            --------------------------------------------------
+Fish            --------------------------------------------------
+Fly             --------------------------------------------------
+                                                                  
+
+Human           --------------------------------------------------
+Worm            --------------------------------------------------
+Chimp           --------------------------------------------------
+Macaque         --------------------------------------------------
+Mouse           --------------------------------------------------
+Rat             --------------------------------------------------
+Dog             --------------------------------------------------
+Cat             --------------------------------------------------
+Horse           --------------------------------------------------
+Cow             TCCAATCAGCTGCTCCTCTGCCCTCACCCAGGAACCAGGCACATGGGGTG
+Pig             --------------------------------------------------
+Platypus        --------------------------------------------------
+Chicken         --------------------------------------------------
+Lizard          --------------------------------------------------
+Frog            --------------------------------------------------
+Fish            --------------------------------------------------
+Fly             --------------------------------------------------
+                                                                  
+
+Human           -----------------------------------------TAA------
+Worm            -----------------------------------------ATGGG----
+Chimp           -----------------------------------------CTA------
+Macaque         -----------------------------------------CTA------
+Mouse           -----------------------------------------CTA------
+Rat             -----------------------------------------CTA------
+Dog             -----------------------------------------TAA------
+Cat             -----------------------------------------GCA------
+Horse           -----------------------------------------GCG------
+Cow             CTGGGACCTGCTGGGGGTGGTTGTCCGCCTGTTACTCCACACAA-TCCTC
+Pig             -----------------------------------------TAA------
+Platypus        -----------------------------------------CTA------
+Chicken         -----------------------------------------CTA------
+Lizard          -----------------------------------------CTA------
+Frog            -----------------------------------------TTA------
+Fish            -----------------------------------------GTA------
+Fly             -----------------------------------------CAAGG----
+                                                                  
+
+Human           --G-TA----------------------------------------T---
+Worm            --C-TG---------------------------------G--------A-
+Chimp           --C-TT---------------------------------T-----TTT--
+Macaque         --C-TT---------------------------------T-----TTT--
+Mouse           --C-TT---------------------------------T-----TTT--
+Rat             --C-AT---------------------------------T-----TTT--
+Dog             --G-TA----------------------------------------T---
+Cat             ----------------------------------------------G---
+Horse           ----------------------------------------------G---
+Cow             CAC-CTCTTCCCACTTTGTGACAACAGTTTTCCAAACTGT-----CTT--
+Pig             --G-TA----------------------------------------T---
+Platypus        --C-TT---------------------------------T-----TTT--
+Chicken         --C-TT---------------------------------T-----TTT--
+Lizard          --C-TT---------------------------------T-----TTT--
+Frog            --T-TT---------------------------------C-----TGC--
+Fish            --C-TT---------------------------------C-----TAC--
+Fly             --CCAT---------------------------------CACCCAAGCAC
+                                                                  
+
+Human           -------------CGCTGA
+Worm            --GGA--------AAATAA
+Chimp           -------------ACTTGA
+Macaque         -------------ACTTGA
+Mouse           -------------ACTTGA
+Rat             -------------ACTTGA
+Dog             -------------CGCTGA
+Cat             -------------GACTGA
+Horse           -------------GACCGA
+Cow             ----ACAAGAGAGATTTAG
+Pig             -------------CGCTGA
+Platypus        ----A---------CTTGA
+Chicken         ----A---------CTTGA
+Lizard          ----A---------CCTGA
+Frog            -------------ACCTGA
+Fish            -------------TACTGA
+Fly             CGCCG--------CACTAA
+                                   
+
+
+
